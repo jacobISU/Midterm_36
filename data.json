@@ -1,0 +1,32 @@
+{
+    "features": [
+        {
+            "productId": "SB190",
+            "category": "Sportbikes",
+            "description": "One of the most well-known and varietal categories of motorcycles, sportbikes can be cost-effective, reliable, powerful, and fast. These easily customizable bikes come in a variety of sizes, making them popular with riders of all types. Metric manufacturers dominate the market for sportbike production, while premium brands include BMW, Aprilia, and Ducati. Popular models worldwide include the Honda CBR, Kawasaki Ninja, and Yamaha YZF.",
+            "price": 8749,
+            "pros":"Varying sizes (125cc-1,000+), nimble, lightweight, cost-effective.",
+            "cons":"Comfort (aggressive body positioning), steep rake angle.",
+            "url": "https://images.pexels.com/photos/16139169/pexels-photo-16139169/free-photo-of-a-man-is-kneeling-down-on-a-motorcycle.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "productId": "VC777",
+            "category": "Vintage&Customs",
+            "description": "Both vintage and custom motorcycles will come with their own unique challenges and strengths. For example, most vintage bikes will be carbureted, potentially making them easier to work on for riders who are mechanically inclined. However any major motorcycle customization can compromise the safety or change the handling of a bike, so savvy buyers should be wary of in-depth custom work when purchasing a vintage motorcycle.",
+            "price": 20000,
+            "pros":"Cost-effective, simple, plentiful, varietal, heavily customizable.",
+            "cons":"May need repairs/updates, customization could cause safety and handling concerns.",
+            "url": "https://images.pexels.com/photos/104842/bmw-vehicle-ride-bike-104842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "productId": "SS900",
+            "category": "Scooters",
+            "description": "Though not technically a motorcycle, scooter owners account for a significant amount of rider populations worldwide. Scooter models will typically feature step-through seating, automatic shifting, 10-inch (25cm) tire diameters, and a maximum of 150ccs (though larger models can reach up to 500cc’s).",
+            "price": 1000,
+            "pros":"Small, lightweight, automatic shifting.",
+            "cons":"Limited power, limited stability, possible low visibility (due to scooter size).",
+            "fun": "The first ever scooter was invented in 1915 and was adopted by American Police to chase thefts.",
+            "url": "https://images.pexels.com/photos/12405332/pexels-photo-12405332.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }    
+    ]
+  }

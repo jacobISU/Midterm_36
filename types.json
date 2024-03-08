@@ -1,0 +1,94 @@
+{
+    "types": [
+        {
+            "productId": "0",
+            "category": "Cruisers",
+            "description": "One of the most popular motorcycle types in the world, and for good reason. Cruisers are known for being comfortable, varietal, and popular. Top cruiser brands include Harley-Davidson, Indian, and most metric manufacturers (like Honda, Suzuki, Yamaha, and Kawasaki). Typically cruisers are heavier bikes, with resulting lower power to weight ratios, and a focus on comfort and low-end torque. ",
+            "price": 18399,
+            "pros":"Comfort, ease, widely varietal models, community gatherings.",
+            "cons":"Weight, power:weight ratio, costs (some models).", 
+            "fun": "They're built a bit closer to the ground which changes a bike's center of gravity, making it easier to handle.",
+            "url": "https://images.pexels.com/photos/2611654/pexels-photo-2611654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "productId": "1",
+            "category": "Sportbikes",
+            "description": "One of the most well-known and varietal categories of motorcycles, sportbikes can be cost-effective, reliable, powerful, and fast. These easily customizable bikes come in a variety of sizes, making them popular with riders of all types. Metric manufacturers dominate the market for sportbike production, while premium brands include BMW, Aprilia, and Ducati. Popular models worldwide include the Honda CBR, Kawasaki Ninja, and Yamaha YZF.",
+            "price": 8749,
+            "pros":"Varying sizes (125cc-1,000+), nimble, lightweight, cost-effective.",
+            "cons":"Comfort (aggressive body positioning), steep rake angle.",
+            "fun":"A sportsbike can typically reach speeds of 140-165 mph!",
+            "url": "https://images.pexels.com/photos/163210/motorcycles-race-helmets-pilots-163210.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "productId": "2",
+            "category": "Standard/Naked",
+            "description": "The “naked” bike is arguably one of the most versatile and simple types of motorcycles that a rider can buy. Also termed “standard” bikes or “streetfighters,” these motorcycles typically have no fairings, minimal to no windshields, and a more upright body positioning. Naked bikes tend to cross over into the “sportbike” column, with most bikes functioning on the track just as well as the street.",
+            "price": 9399,
+            "pros":"Nimble, comfortable, versatile, lightweight, low seat height.",
+            "cons":"Lack of fairings, little to no windshield, minimal luggage options.",
+            "fun": "Naked bikes have low seat height and an upright riding position which is great for new riders.",
+            "url": "https://images.pexels.com/photos/19426690/pexels-photo-19426690/free-photo-of-motorcycle-parked-in-the-grass.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "productId": "3",
+            "category": "Dirtbikes",
+            "description": "True dirtbikes typically come in either 4-stroke, 2-stroke, or electric models. These motorcycles are designed solely for off-road riding, and lack the headlights, taillights, mirrors, and turn signals to make them street-legal.",
+            "price": 8500,
+            "pros":"Lightweight, nimble, varietal model types and sizes.",
+            "cons":"Limited to offroad riding, tall seat heights (some models), kickstarts (some models), small gas tanks (some models).",
+            "fun":"Dirt Bikes Originated In The United Kingdom.",
+            "url": "https://images.pexels.com/photos/217872/pexels-photo-217872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "productId": "4",
+            "category": "Electric",
+            "description": "Though not many electric models currently exist for sale by major manufacturers, their popularity is undoubtedly on the rise. These bikes come in a variety of styles, and are the ultimate choice for environmentally-focused riders, or those who just love modern tech.",
+            "price": 15995,
+            "pros":"Environmentally conscious, quiet, modern design.",
+            "cons":"Price, battery range, maintenance/repair costs (some models).",
+            "fun": "Perhaps the most well-known fact about electric motorcycles is that they produce zero tailpipe emissions.",
+            "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2023/04/mautohead.jpg?w=1500&quality=82&strip=all&ssl=1"
+        },
+        {
+            "productId": "5",
+            "category": "Choppers",
+            "description": "One of the most iconic looking motorcycles in the sport, choppers are a fan favorite due to their unique styling and classic place in riding culture. However, they’re often a difficult bike to ride. Some manufacturers produce chopper-style motorcycles straight off the factory floor, while many are made in custom motorcycle shops. Most will have limited rear suspension, and all will be challenging in corners due to the dramatic fork rake.",
+            "price": 10599,
+            "pros":"Iconic styling, low set height.",
+            "cons":"Fork rake, difficult handling, rear suspension limitations.",
+            "fun":"Elvis owned one",
+            "url": "https://images.pexels.com/photos/13073573/pexels-photo-13073573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "productId": "6",
+            "category": "Vintage&Customs",
+            "description": "Both vintage and custom motorcycles will come with their own unique challenges and strengths. For example, most vintage bikes will be carbureted, potentially making them easier to work on for riders who are mechanically inclined. However any major motorcycle customization can compromise the safety or change the handling of a bike, so savvy buyers should be wary of in-depth custom work when purchasing a vintage motorcycle.",
+            "price": 20000,
+            "pros":"Cost-effective, simple, plentiful, varietal, heavily customizable.",
+            "cons":"May need repairs/updates, customization could cause safety and handling concerns.",
+            "fun":"The world's most expensive custom motorbike is an insane $11 million.",
+            "url": "https://images.pexels.com/photos/2611654/pexels-photo-2611654.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "productId": "7",
+            "category": "Touring",
+            "description": "The sportier cousin to Cruisers, Touring motorcycles were designed to go the extra mile. A more upright body positioning, luggage compartments, smooth handling, and motorcycle features like heated grips, seats, cruise control (and even cup holders!) take comfort to the extreme in these models.",
+            "price": 23000,
+            "pros":"Smooth, stable, comfortable, spacious.",
+            "cons":"Weight, bulk, possibly overwhelming for new riders, cost (some models).",
+            "fun": "The world record for a motorcycle drive is 10 years",
+            "url": "https://images.pexels.com/photos/7938769/pexels-photo-7938769.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+        {
+            "productId": "8",
+            "category": "Scooters",
+            "description": "One of the most popular motorcycle types in the world, and for good reason. Cruisers are known for being comfortable, varietal, and popular. Top cruiser brands include Harley-Davidson, Indian, and most metric manufacturers (like Honda, Suzuki, Yamaha, and Kawasaki). Typically cruisers are heavier bikes, with resulting lower power to weight ratios, and a focus on comfort and low-end torque. ",
+            "price": 1000,
+            "pros":"Small, lightweight, automatic shifting.",
+            "cons":"Limited power, limited stability, possible low visibility (due to scooter size).",
+            "fun": "The first ever scooter was invented in 1915 and was adopted by American Police to chase thefts.",
+            "url": "https://images.pexels.com/photos/159192/vespa-roller-motor-scooter-cult-159192.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }    
+    ]
+  }

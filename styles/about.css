@@ -1,0 +1,64 @@
+
+
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    max-width: 100%;
+}
+
+footer{
+    background-color: rgb(31, 33, 39);
+    color: #fff;
+    padding: 20px;
+    text-align: center;   
+}
+
+.aboutParagraph{
+   padding-left: 150px;
+   padding-right: 150px;
+}
+
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 5px;
+}
+
+.contactContainer{
+    padding: 5px;
+}
+
+.project{
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+.class{
+    text-align: center;
+    background-color: rgba(183, 196, 234, 0.305);
+    margin: 0px;
+}
+
+.column {
+    float: left;
+    width: 50%;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#contact{
+    background-color: rgba(183, 196, 234, 0.305);
+    text-align: left;
+}
+
